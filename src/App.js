@@ -6,8 +6,8 @@ import EditUserForm from './forms/EditUserForm'
 function App() {
 
   const usersData = [
-    { id: 1, name: 'Tom', username: 'tombrady666' },
-    { id: 2, name: 'Tim', username: 'timcook777' },
+    { id: 1, name: 'Tinker', username: 'tinkerbell' },
+    { id: 2, name: 'Tim', username: 'pirateTim' },
     { id: 3, name: 'Tammy', username: 'tammyplease' },
     { id: 4, name: 'Alex', username: 'ashox' }
   ]
